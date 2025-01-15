@@ -1,3 +1,6 @@
 [submodule "turbine3-typescript-assignment"]
 	path = turbine3-typescript-assignment
 	url = https://github.com/baindlapranayraj/turbine3-typescript-assignment
+[submodule "turbin3-rust-assignment"]
+	path = turbin3-rust-assignment
+	url = https://github.com/baindlapranayraj/turbin3-rust-assignment
