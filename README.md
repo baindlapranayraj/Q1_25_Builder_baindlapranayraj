@@ -1,8 +1,7 @@
 # Q1_25_Builder_baindlapranayraj
 ---
 
-![Portfolio Image](./turbin3.png)
-
+<img src = "https://i.ytimg.com/vi/xcpM_iaIxSg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD4gZSheMA8=&rs=AOn4CLCRNWc4T53Ei8SWR4uwXX5CVGHaEw" height = "300"/>
 
 
 ## Yoo! Chinna (Pranay Raj) from this side 😄
